@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lae2018>
+	<district>
+		<districtId>23</districtId>
+		<districtName>Monaragala</districtName>
+		<localAuthority>
+			<localAuthorityId>01</localAuthorityId>
+			<localAuthorityName>Monaragala</localAuthorityName>
+			<party> <!-- this part will be repeated for all registered parties -->
+				<partyId>39</partyId>
+				<partyName>Podujana Peramuna</partyName>
+				<partySymbol></partySymbol>
+				<polledVotes>8000</polledVotes>
+				<percent>29.74</percent>
+				<members>
+					<elected>5</elected>
+					<calculated>3</calculated>
+				</members>
+			</party>
+				<party> <!-- this part will be repeated for all registered parties -->
+				<partyId>09</partyId>
+				<partyName>United National Party</partyName>
+				<partySymbol></partySymbol>
+				<polledVotes>7900</polledVotes>
+				<percent>29.37</percent>
+				<members>
+					<elected>4</elected>
+					<calculated>3</calculated>
+				</members>
+			</party>
+				<party> <!-- this part will be repeated for all registered parties -->
+				<partyId>07</partyId>
+				<partyName>UPFA</partyName>
+				<partySymbol></partySymbol>
+				<polledVotes>2000</polledVotes>
+				<percent>7.43</percent>
+				<members>
+					<elected>1</elected>
+					<calculated>0</calculated>
+				</members>
+			</party>
+			<party> 
+				<partyId>18</partyId>
+				<partyName>JVP</partyName>
+				<partySymbol></partySymbol>
+				<polledVotes>5000</polledVotes>
+				<percent>18.59</percent>
+				<members>
+					<elected>3</elected>
+					<calculated>2</calculated>
+				</members>
+			</party>
+			<party>
+				<partyId>38</partyId>
+				<partyName>SLFP</partyName>
+				<partySymbol></partySymbol>
+				<polledVotes>4000</polledVotes>
+				<percent>14.87</percent>
+				<members>
+					<elected>3</elected>
+					<calculated>1</calculated>
+				</members>
+			</party>
+				<summary>
+				<totalMembers>30</totalMembers>
+				<totalValidVotes>26900</totalValidVotes>
+				<rejectedVotes>400</rejectedVotes>
+				<polledVotes>27300</polledVotes>
+				<totalRegisteredVotes>27450</totalRegisteredVotes>
+			</summary>
+		</localAuthority>
+	</district>
+	<releasedTime>456789</releasedTime>
+</lae2018>

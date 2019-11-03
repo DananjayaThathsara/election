@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lae2018>
+<!-- List of Political Parties -->
+	<politicalParty>
+		<partyId>01</partyId>
+		<partyName>Ahila Ilankai Thamil Congress</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>02</partyId>
+		<partyName>Akhila Ilankai Tamil Mahasabha</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>03</partyId>
+		<partyName>Our National Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>04</partyId>
+		<partyName>All Ceylon Makkal Congress</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>05</partyId>
+		<partyName>Ilankai Tamil Arasu Kadchi</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>06</partyId>
+		<partyName>Eelam People's Democratic Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>07</partyId>
+		<partyName>United People's Freedom Alliance</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>08</partyId>
+		<partyName>United National Freedom Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>09</partyId>
+		<partyName>United National Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>10</partyId>
+		<partyName>Democratic Unity Alliance</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>11</partyId>
+		<partyName>United People's Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>12</partyId>
+		<partyName>Eksath Lanka Maha Saba Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>13</partyId>
+		<partyName>United Left Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>14</partyId>
+		<partyName>United Socialist Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>15</partyId>
+		<partyName>United Peace Alliance</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>16</partyId>
+		<partyName>United Progressive Alliance</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>17</partyId>
+		<partyName>Okkoma Wasiyo Okkoma Rajawaru Sanvidanaya</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>18</partyId>
+		<partyName>People's Liberation Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>19</partyId>
+		<partyName>Jana Setha Peramuna</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>20</partyId>
+		<partyName>National Congress</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>21</partyId>
+		<partyName>National Peoples Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>22</partyId>
+		<partyName>Thamil Makkal Viduthalai Pulikal</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>23</partyId>
+		<partyName>Social Democratic Party of Tamils</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>24</partyId>
+		<partyName>Tamil United Liberation Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>25</partyId>
+		<partyName>Nawa Sama Samaja Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>26</partyId>
+		<partyName>Nawa Sihala Urumaya</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>27</partyId>
+		<partyName>Democratic United National Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>28</partyId>
+		<partyName>Democratic National Movement</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>29</partyId>
+		<partyName>Democratic National Alliance</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>30</partyId>
+		<partyName>Democratic Left Front</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>31</partyId>
+		<partyName>Maubima Janatha Pakshaya</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>32</partyId>
+		<partyName>Muslim National Alliance </partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>33</partyId>
+		<partyName>National Front for Good Governance </partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>34</partyId>
+		<partyName>Ceylon Worker's Congress (P.Wing)</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>35</partyId>
+		<partyName>Lanka Sama Samaja Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>36</partyId>
+		<partyName>The Liberal Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>37</partyId>
+		<partyName>Sri Lanka National Force</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>38</partyId>
+		<partyName>Sri Lanka Freedom Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>39</partyId>
+		<partyName>Sri Lanka Podujana Peramuna</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>40</partyId>
+		<partyName>Sri Lanka Mahajana Pakshaya</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>41</partyId>
+		<partyName>Sri Lanka Muslim Congress</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>42</partyId>
+		<partyName>Communist Party of Sri Lanka </partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>43</partyId>
+		<partyName>Socialist Party of Sri Lanka</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>44</partyId>
+		<partyName>Socialist Equality Party</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>50</partyId>
+		<partyName>Independent Group</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>51</partyId>
+		<partyName>Independent Group 1</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>52</partyId>
+		<partyName>Independent Group 2</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>53</partyId>
+		<partyName>Independent Group 3</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>54</partyId>
+		<partyName>Independent Group 4</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>55</partyId>
+		<partyName>Independent Group 5</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>56</partyId>
+		<partyName>Independent Group 6</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>57</partyId>
+		<partyName>Independent Group 7</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>58</partyId>
+		<partyName>Independent Group 8</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>59</partyId>
+		<partyName>Independent Group 9</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>60</partyId>
+		<partyName>Independent Group 10</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>91</partyId>
+		<partyName>Party 01</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>92</partyId>
+		<partyName>Party 02</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>93</partyId>
+		<partyName>Party 03</partyName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>96</partyId>
+		<partyName>Independant G1</partyName>
+	</politicalParty>
+</lae2018>

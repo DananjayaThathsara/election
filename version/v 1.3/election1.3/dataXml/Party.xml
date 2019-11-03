@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lae2018>
+<!-- List of Political Parties -->
+	<politicalParty>
+		<partyId>01</partyId>
+		<partyName>Ahila Ilankai Thamil Congress</partyName>
+		<partyNameShort>AITC</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+	<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>02</partyId>
+		<partyName>Akhila Ilankai Tamil Mahasabha</partyName>
+		<partyNameShort>AITM</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>03</partyId>
+		<partyName>Our National Front</partyName>
+		<partyNameShort>ONF</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>04</partyId>
+		<partyName>All Ceylon Makkal Congress</partyName>
+		<partyNameShort>ACMC</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>05</partyId>
+		<partyName>Ilankai Tamil Arasu Kadchi</partyName>
+		<partyNameShort>ITAK</partyNameShort>
+		<partyImageName>itak.jpg</partyImageName>
+		<partyColor>rgb(251, 199, 66)</partyColor>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>06</partyId>
+		<partyName>Eelam People\'s Democratic Party</partyName>
+		<partyNameShort>EPDP</partyNameShort>
+		<partyImageName>epdp.jpg</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>07</partyId>
+		<partyName>United People\'s Freedom Alliance</partyName>
+			<partyNameShort>UPFA</partyNameShort>
+		<partyImageName>upfa.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>08</partyId>
+		<partyName>United National Freedom Front</partyName>
+		<partyNameShort>UNFF</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>09</partyId>
+		<partyName>United National Party</partyName>
+			<partyNameShort>UNP</partyNameShort>
+		<partyImageName>unp.jpg</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>10</partyId>
+		<partyName>Democratic Unity Alliance</partyName>
+		<partyNameShort>DUA</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>11</partyId>
+		<partyName>United People\'s Party</partyName>
+			<partyNameShort>UPP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>12</partyId>
+		<partyName>Eksath Lanka Maha Saba Party</partyName>
+			<partyNameShort>ELMSP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>13</partyId>
+		<partyName>United Left Front</partyName>
+		<partyNameShort>ULF</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>14</partyId>
+		<partyName>United Socialist Party</partyName>
+		<partyNameShort>USP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>15</partyId>
+		<partyName>United Peace Alliance</partyName>
+		<partyNameShort>UPA</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>16</partyId>
+		<partyName>United Progressive Alliance</partyName>
+		<partyNameShort>UProA</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>17</partyId>
+		<partyName>Okkoma Wasiyo Okkoma Rajawaru Sanvidanaya</partyName>
+		<partyNameShort>OWORS</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>18</partyId>
+		<partyName>People\'s Liberation Front</partyName>
+			<partyNameShort>JVP</partyNameShort>
+		<partyImageName>jvp.jpg</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>19</partyId>
+		<partyName>Jana Setha Peramuna</partyName>
+		<partyNameShort>JSP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>20</partyId>
+		<partyName>National Congress</partyName>
+			<partyNameShort>NC</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>21</partyId>
+		<partyName>National Peoples Party</partyName>
+		<partyNameShort>NPP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>22</partyId>
+		<partyName>Thamil Makkal Viduthalai Pulikal</partyName>
+			<partyNameShort>TMVP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>23</partyId>
+		<partyName>Social Democratic Party of Tamils</partyName>
+		<partyNameShort>SDPT</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>24</partyId>
+		<partyName>Tamil United Liberation Front</partyName>
+		<partyNameShort>TULF</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>25</partyId>
+		<partyName>Nawa Sama Samaja Party</partyName>
+				<partyNameShort>NSSP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>26</partyId>
+		<partyName>Nawa Sihala Urumaya</partyName>
+	<partyNameShort>NSU</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>27</partyId>
+		<partyName>Democratic United National Front</partyName>
+		<partyNameShort>DUNF</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>28</partyId>
+		<partyName>Democratic National Movement</partyName>
+			<partyNameShort>DNM</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>29</partyId>
+		<partyName>Democratic National Alliance</partyName>
+		<partyNameShort>DNA</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>30</partyId>
+		<partyName>Democratic Left Front</partyName>
+		<partyNameShort>DLF</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>31</partyId>
+		<partyName>Maubima Janatha Pakshaya</partyName>
+			<partyNameShort>MJP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>32</partyId>
+		<partyName>Muslim National Alliance </partyName>
+			<partyNameShort>MNA</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>33</partyId>
+		<partyName>National Front for Good Governance </partyName>
+			<partyNameShort>NFGG</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>34</partyId>
+		<partyName>Ceylon Worker\'s Congress (P.Wing)</partyName>
+		<partyNameShort>CWC</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>35</partyId>
+		<partyName>Lanka Sama Samaja Party</partyName>
+			<partyNameShort>LSSP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>36</partyId>
+		<partyName>The Liberal Party</partyName>
+			<partyNameShort>TLP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>37</partyId>
+		<partyName>Sri Lanka National Force</partyName>
+			<partyNameShort>SLNP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>38</partyId>
+		<partyName>Sri Lanka Freedom Party</partyName>
+			<partyNameShort>SLFP</partyNameShort>
+		<partyImageName>atha.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>39</partyId>
+		<partyName>Sri Lanka Podujana Peramuna</partyName>
+			<partyNameShort>SLPP</partyNameShort>
+		<partyImageName>phottuwa.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>40</partyId>
+		<partyName>Sri Lanka Mahajana Pakshaya</partyName>
+		<partyNameShort>SLMP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>41</partyId>
+		<partyName>Sri Lanka Muslim Congress</partyName>
+			<partyNameShort>SLMC</partyNameShort>
+		<partyImageName>slmc.jpg</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>42</partyId>
+		<partyName>Communist Party of Sri Lanka </partyName>
+			<partyNameShort>CPSL</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>43</partyId>
+		<partyName>Socialist Party of Sri Lanka</partyName>
+		<partyNameShort>SPSL</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>44</partyId>
+		<partyName>Socialist Equality Party</partyName>
+			<partyNameShort>SEP</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>50</partyId>
+		<partyName>Independent Group</partyName>
+		<partyNameShort>INDEPENDENT</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>51</partyId>
+		<partyName>Independent Group 1</partyName>
+		<partyNameShort>INDEPENDENT01</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>52</partyId>
+		<partyName>Independent Group 2</partyName>
+		<partyNameShort>INDEPENDENT02</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>53</partyId>
+		<partyName>Independent Group 3</partyName>
+		<partyNameShort>INDEPENDENT03</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>54</partyId>
+		<partyName>Independent Group 4</partyName>
+		<partyNameShort>INDEPENDENT04</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>55</partyId>
+		<partyName>Independent Group 5</partyName>
+		<partyNameShort>INDEPENDENT05</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>56</partyId>
+		<partyName>Independent Group 6</partyName>
+		<partyNameShort>INDEPENDENT06</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>57</partyId>
+		<partyName>Independent Group 7</partyName>
+		<partyNameShort>INDEPENDENT07</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>58</partyId>
+		<partyName>Independent Group 8</partyName>
+		<partyNameShort>INDEPENDENT08</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>59</partyId>
+		<partyName>Independent Group 9</partyName>
+		<partyNameShort>INDEPENDENT09</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>60</partyId>
+		<partyName>Independent Group 10</partyName>
+		<partyNameShort>INDEPENDENT10</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+		<partyColor></partyColor>
+	</politicalParty>
+	<politicalParty>
+		<partyId>91</partyId>
+		<partyName>Party 01</partyName>
+		<partyNameShort>P01</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>92</partyId>
+		<partyName>Party 02</partyName>
+		<partyNameShort>P02</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>93</partyId>
+		<partyName>Party 03</partyName>
+		<partyNameShort>P0#</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+	</politicalParty>
+	<politicalParty>
+		<partyId>96</partyId>
+		<partyName>Independant G1</partyName>
+		<partyNameShort>INDG1</partyNameShort>
+		<partyImageName>default.png</partyImageName>
+	</politicalParty>
+</lae2018>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lae2018>
+  <district>
+    <districtId>14</districtId>
+<districtName>Mullativu</districtName>
+    <localAuthority>
+    <localAuthorityId>01</localAuthorityId>
+<localAuthorityName>Manthai East Pradeshiya Sabha</localAuthorityName>
+<party>
+    <partyId>05</partyId>
+    <partyName>Ilankai Tamil Arasu Kadchi</partyName>
+    <partySymbol>05</partySymbol>
+    <polledVotes>1836</polledVotes>
+    <members>
+	<elected>4</elected>
+	<calculated>2</calculated>
+   </members>
+    </party>
+  <party>
+     <partyId>09</partyId>
+    <pNAME>United National Party</pNAME>
+    <partySymbol>09</partySymbol>
+    <polledVotes>1505</polledVotes>
+     <members>
+	<elected>4</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>38</partyId>
+    <pNAME>Sri Lanka Freedom Party</pNAME>
+    <partySymbol>38</partySymbol>
+    <polledVotes>523</polledVotes>
+     <members>
+	<elected>0</elected>
+	<calculated>2</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>06</partyId>
+    <pNAME>Eelam People&#x27;s Democratic Party</pNAME>
+    <partySymbol>06</partySymbol>
+    <polledVotes>192</polledVotes>
+     <members>
+	<elected>0</elected>
+	<calculated>1</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>24</partyId>
+    <pNAME>Tamil United Liberation Front</pNAME>
+    <partySymbol>24</partySymbol>
+    <polledVotes>122</polledVotes>
+     <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+    <districtId>14</districtId>
+    <pNAME>Sri Lanka Podujana Peramuna</pNAME>
+    <partySymbol>39</partySymbol>
+    <polledVotes>46</polledVotes>
+      <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>18</partyId>
+    <pNAME>People&#x27;s Liberation Front</pNAME>
+    <partySymbol>18</partySymbol>
+    <polledVotes>34</polledVotes>
+      <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>01</partyId>
+    <pNAME>Ahila Ilankai Thamil Congress</pNAME>
+    <partySymbol>01</partySymbol>
+    <polledVotes>29</polledVotes>
+      <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+       </party>
+<summary>
+				<totalMembers>16</totalMembers>
+				<totalValidVotes>4287</totalValidVotes>
+				<totalValidVotesPercent>98.8</totalValidVotesPercent>
+				<rejectedVotes>49</rejectedVotes>
+				<rejectedVotesPercent>1.1</rejectedVotesPercent>
+				<polledVotes>4336</polledVotes>
+				<polledVotesPercent>83.64</polledVotesPercent>
+				<totalRegisteredVotes>5184</totalRegisteredVotes>
+</summary>
+</localAuthority>
+</district>
+<releasedTime>00:20:00 06.02.2018</releasedTime>
+</lae2018>

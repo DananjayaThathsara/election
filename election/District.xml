@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lae2018>
+<!-- List of Districts -->
+	<district>
+		<dsId>01</dsId>
+		<dsName>Colombo District </dsName>
+	</district>
+	<district>
+		<dsId>02</dsId>
+		<dsName>Gampaha District </dsName>
+	</district>
+	<district>
+		<dsId>03</dsId>
+		<dsName> Kaluthara District </dsName>
+	</district>
+	<district>
+		<dsId>04</dsId>
+		<dsName>Kandy District </dsName>
+	</district>
+	<district>
+		<dsId>05</dsId>
+		<dsName>Matale District </dsName>
+	</district>
+	<district>
+		<dsId>06</dsId>
+		<dsName> Nuwara Eliya District </dsName>
+	</district>
+	<district>
+		<dsId>07</dsId>
+		<dsName> Galle District </dsName>
+	</district>
+	<district>
+		<dsId>08</dsId>
+		<dsName>Matara District </dsName>
+	</district>
+	<district>
+		<dsId>09</dsId>
+		<dsName>Hambantota District</dsName>
+	</district>
+	<district>
+		<dsId>10</dsId>
+		<dsName>Jaffna District</dsName>
+	</district>
+	<district>
+		<dsId>11</dsId>
+		<dsName> Kilinochchi District</dsName>
+	</district>
+	<district>
+		<dsId>12</dsId>
+		<dsName>Mannar District</dsName>
+	</district>
+	<district>
+		<dsId>13</dsId>
+		<dsName>Vavuniya District</dsName>
+	</district>
+	<district>
+		<dsId>14</dsId>
+		<dsName>Mullaitivu District</dsName>
+	</district>
+	<district>
+		<dsId>15</dsId>
+		<dsName>Batticaloa District</dsName>
+	</district>
+	<district>
+		<dsId>16</dsId>
+		<dsName>Ampara District</dsName>
+	</district>
+	<district>
+		<dsId>17</dsId>
+		<dsName>Trincomalee District  </dsName>
+	</district>
+	<district>
+		<dsId>18</dsId>
+		<dsName>Kurunegala District</dsName>
+	</district>
+	<district>
+		<dsId>19</dsId>
+		<dsName>Puttalam District</dsName>
+	</district>
+	<district>
+		<dsId>20</dsId>
+		<dsName>Anuradhapura District</dsName>
+	</district>
+	<district>
+		<dsId>21</dsId>
+		<dsName>Polonnaruwa District</dsName>
+	</district>
+	<district>
+		<dsId>22</dsId>
+		<dsName>Badulla District</dsName>
+	</district>
+	<district>
+		<dsId>23</dsId>
+		<dsName>Moneragala District</dsName>
+	</district>
+	<district>
+		<dsId>24</dsId>
+		<dsName>Ratnapura District</dsName>
+	</district>
+	<district>
+		<dsId>25</dsId>
+		<dsName>Kegalle District</dsName>
+	</district>
+</lae2018>

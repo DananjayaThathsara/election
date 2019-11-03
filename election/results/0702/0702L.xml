@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lae2018>
+  <district>
+    <districtId>07</districtId>
+<districtName>Galle</districtName>
+    <localAuthority>
+    <localAuthorityId>02</localAuthorityId>
+<localAuthorityName>Ambalangoda Urban Council</localAuthorityName>
+<party>
+    <partyId>39</partyId>
+    <partyName>Sri Lanka Podujana Peramuna</partyName>
+    <partySymbol>39</partySymbol>
+    <polledVotes>6698</polledVotes>
+    <members>
+	<elected>10</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+     <partyId>09</partyId>
+    <partyName>United National Party</partyName>
+    <partySymbol>09</partySymbol>
+    <polledVotes>4260</polledVotes>
+     <members>
+	<elected>2</elected>
+	<calculated>4</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>07</partyId>
+    <partyName>United People's Freedom Alliance</partyName>
+    <partySymbol>07</partySymbol>
+    <polledVotes>1796</polledVotes>
+     <members>
+	<elected>0</elected>
+	<calculated>3</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>18</partyId>
+    <partyName>People's Liberation Front</partyName>
+    <partySymbol>18</partySymbol>
+    <polledVotes>1062</polledVotes>
+     <members>
+	<elected>0</elected>
+	<calculated>2</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>08</partyId>
+    <partyName>United Freedom Front</partyName>
+    <partySymbol>08</partySymbol>
+    <polledVotes>344</polledVotes>
+     <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  
+<summary>
+				<totalMembers>21</totalMembers>
+				<totalValidVotes>14160</totalValidVotes>
+				<totalValidVotesPercent>97.66</totalValidVotesPercent>
+				<rejectedVotes>338</rejectedVotes>
+				<rejectedVotesPercent>2.33</rejectedVotesPercent>
+				<polledVotes>14498</polledVotes>
+				<polledVotesPercent>77.33</polledVotesPercent>
+				<totalRegisteredVotes>18748</totalRegisteredVotes>
+</summary>
+</localAuthority>
+</district>
+<releasedTime>00:40:00 11.02.2018</releasedTime>
+</lae2018>

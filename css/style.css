@@ -1,0 +1,70 @@
+.ele_result {
+    margin-bottom: 10px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #cacaca;
+}
+.ele_symbol {
+    float: left;
+
+}
+.ele_symbol_text{
+    margin: 10px 0 0 10px;
+    float: left;
+    font-size: 14px;
+    font-weight: 800;
+}
+.candi_progress {
+    margin-left: 10px;
+}
+.ele_result .progress {
+    margin-bottom: 7px;
+    border-radius: 0px;
+}
+
+.tot_vote {
+    font-size: 15px;
+    font-weight: 300;
+}
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.all_island {
+    margin-bottom: 10px;
+}
+.progress {
+  margin-bottom: 1px;
+}
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.result{
+    border-top:1px solid #dddddd;
+    margin-top:10px;
+}
+
+#side .progress-bar {
+    margin-bottom: 1px;
+    height: 20px;
+    font-size: 10px !important;
+    line-height: 16px !important;
+}
+#side tbody img{
+    width: 30px;
+    height:30px;
+}
+#side .ele_symbol_text {
+    margin: 7px 0 0 10px;
+    float: left;
+    font-size: 11px;
+    font-weight: 800;
+}
+#side h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: -9px;
+    margin-bottom: 10px;
+}
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lae2018>
+  <district>
+    <districtId>08</districtId>
+<districtName>Matara</districtName>
+    <localAuthority>
+    <localAuthorityId>05</localAuthorityId>
+<localAuthorityName>Kirinda Puhulwella Pradeshiya Sabha</localAuthorityName>
+<party>
+    <partyId>39</partyId>
+    <partyName>Sri Lanka Podujana Peramuna</partyName>
+    <partySymbol>39</partySymbol>
+    <polledVotes>8621</polledVotes>
+	<percent>35.49</percent>
+    <members>
+	<elected>7</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+     <partyId>09</partyId>
+    <partyName>United National Party</partyName>
+    <partySymbol>09</partySymbol>
+    <polledVotes>3417</polledVotes>
+	<percent>14.07</percent>
+     <members>
+	<elected>0</elected>
+	<calculated>3</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>07</partyId>
+    <partyName>United People's Freedom Alliance</partyName>
+    <partySymbol>07</partySymbol>
+    <polledVotes>928</polledVotes>
+	<percent>3.82</percent>
+     <members>
+	<elected>0</elected>
+	<calculated>1</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>18</partyId>
+    <partyName>People's Liberation Front</partyName>
+    <partySymbol>18</partySymbol>
+    <polledVotes>818</polledVotes>
+	<percent>3.37</percent>
+     <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  <party>
+    <partyId>27</partyId>
+    <partyName>Democratic United National Front</partyName>
+    <partySymbol>27</partySymbol>
+    <polledVotes>109</polledVotes>
+	<percent>0.45</percent>
+     <members>
+	<elected>0</elected>
+	<calculated>0</calculated>
+   </members>
+    </party>
+  
+<summary>
+				<totalMembers>11</totalMembers>
+				<totalValidVotes>24048</totalValidVotes>
+				<totalValidVotesPercent>99</totalValidVotesPercent>
+				<rejectedVotes>242</rejectedVotes>
+				<rejectedVotesPercent>1</rejectedVotesPercent>
+				<polledVotes>24290</polledVotes>
+				<polledVotesPercent>74.19</polledVotesPercent>
+				<totalRegisteredVotes>32740</totalRegisteredVotes>
+</summary>
+</localAuthority>
+</district>
+<releasedTime>02:30:00 11.02.2018</releasedTime>
+</lae2018>
